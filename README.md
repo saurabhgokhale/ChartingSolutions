@@ -14,15 +14,15 @@ On the JSP/HTML page, I make call to the "Chart" Servlet with following paramete
 
 where
 cht = Chart Type
-ct = Chart Title
+ct  = Chart Title
 ccn = Chart Column Name
 ccv = Chart Column Value
 cxt = Chart X Axis Title
 cyt = Chart Y Axis Title
-iw = Image Width in pixel [Optional Value]
-ih = Image Height in pixel [Optional Value]
-cw = Chart Width in pixel [Optional Value]
-ch = Chart Height in pixel [Optional Value]
+iw  = Image Width in pixel [Optional Value]
+ih  = Image Height in pixel [Optional Value]
+cw  = Chart Width in pixel [Optional Value]
+ch  = Chart Height in pixel [Optional Value]
 percent = Display % value or hide [Optional Value]
 ```
 
@@ -36,6 +36,7 @@ Pie Chart
 ```html
 <img src="Chart?cht=pie&ct=Call+Usage+Analysis&ccn=06Mar+07Mar+08Mar+09Mar+10Mar&ccv=150+79+23+55+44&cxt=Dates&cyt=Total+Amount+Due+($)&percent=true"/>
 ```
+In a case where a parameter sent is not required, it is ignored. In Pie chart case X and Y Axis title parameters are ignored.
 
 ![Pie Chart](http://i.imgur.com/66kVELs.png)
 
