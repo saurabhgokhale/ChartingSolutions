@@ -1,4 +1,4 @@
-Charting Solutions
+3D Charting Solutions
 ============================
 
 This is a Charting Library that I developed for Amdocs Inc. I am in the process of getting approval from the company to make the code open source.
