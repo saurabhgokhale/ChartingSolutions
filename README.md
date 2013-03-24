@@ -3,11 +3,11 @@
 
 This is a Charting Library that I developed for Amdocs Inc. I am in the process of getting approval from the company to make the code open source.
 
-I am hoping to get the approval in few days. Until then, here is the charts that I developed.
+I am hoping to get the approval in few days. Until then, here are the charts that I developed.
 
 Bar Chart
 ----------
-On the JSP/HTML page, I make call to the "Chart" Servlet with following parameters, which generates an image and returned as a bufferedImage. Being inside the image tag, the response is displayed as image on the page
+On the JSP/HTML page, I make call to the "Chart" Servlet with following parameters, which generates an image and returns a bufferedImage Object. Being inside the image tag, the response is displayed by the browsers as an image on the page.
 
 ```html
 <img src="Chart?cht=bar&ct=Call+Usage+Analysis&ccn=06Mar+07Mar+08Mar+09Mar+10Mar&ccv=150+79+23+55+44&cxt=Dates&cyt=Total+Amount+Due+($)&iw=700&ih=350&cw=400&ch=300&percent=false"/>
