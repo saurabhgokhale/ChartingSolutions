@@ -1,9 +1,7 @@
 3D Charting Solutions
 ============================
 
-This is a Charting Library that I developed for Amdocs Inc. I am in the process of getting approval from the company to make the code open source.
-
-I am hoping to get the approval in few days. Until then, here are the charts that I developed.
+This is a Charting Library that I developed for Amdocs Inc.
 
 Bar Chart
 ----------
