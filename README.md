@@ -60,6 +60,6 @@ Please Note
 ----------
 1. For the simplicity purposes, I removed log4j dependency and replaced log statements with few system outs. In production sysouts can be removed.
 2. Currently code accepts only first 10 arguments to the graph. This is done to make sure that the bar / line graph inputs are plotted with image size limit.
-3. I need to add more comments in the code to make this code more redable. 
+3. I need to add more comments in the code to make this code more readable. 
 
 Lastly, THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this code, for any purpose, commercial or non-commercial, and by any means.
