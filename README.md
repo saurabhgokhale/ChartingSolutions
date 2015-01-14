@@ -1,7 +1,7 @@
 3D Charting Solutions
 ============================
 
-This is a Charting Library that I developed for Amdocs Inc.
+This is a Charting Library that I developed for my previous employer.
 
 Bar Chart
 ----------
