@@ -46,6 +46,7 @@ Line Chart
 ```
 
 ![Line Chart](http://i.imgur.com/U1Ugot2.png)
+![Line Chart](docs/images/bar.png?raw=true)
 
 
 How to build
