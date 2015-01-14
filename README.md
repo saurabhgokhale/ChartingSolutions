@@ -48,6 +48,14 @@ Line Chart
 ![Line Chart](http://i.imgur.com/U1Ugot2.png)
 
 
+How to build
+----------
+1. Clone or download the project.
+2. run - mvn clean install
+3. It generates chartingSolutions.war in target folder.
+4. Copy this war file in tomcat/webapps directory.
+
+
 Please Note
 ----------
 1. For the simplicity purposes, I removed log4j dependency and replaced log statements with few system outs. In production sysouts can be removed.
