@@ -25,7 +25,7 @@ percent = Display % value or hide [Optional Value]
 ```
 
 
-![Bar Chart](http://i.imgur.com/o5dVjzc.png)
+![Bar Chart](docs/images/bar.png?raw=true)
 
 With a single parameter change, the same chart can be displayed in another format like Pie or Line... pass cht = pie or line instead of bar
 
@@ -36,7 +36,7 @@ Pie Chart
 ```
 In a case where a parameter sent is not required, it is ignored. In Pie chart case X and Y Axis title parameters are ignored.
 
-![Pie Chart](http://i.imgur.com/66kVELs.png)
+![Pie Chart](docs/images/pie.png?raw=true)
 
 
 Line Chart
@@ -45,8 +45,7 @@ Line Chart
 <img src="Chart?cht=line&ct=Call+Usage+Analysis&ccn=06Mar+07Mar+08Mar+09Mar+10Mar&ccv=150+79+23+55+44&cxt=Dates&cyt=Total+Amount+Due+($)&percent=false"/>
 ```
 
-![Line Chart](http://i.imgur.com/U1Ugot2.png)
-![Line Chart](docs/images/bar.png?raw=true)
+![Line Chart](docs/images/line.png?raw=true)
 
 
 How to build
